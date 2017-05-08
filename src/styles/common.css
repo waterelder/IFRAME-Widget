@@ -1,0 +1,27 @@
+body{
+  margin-top: 2%;
+  background-color: transparent;
+}
+
+.main_form_class {
+  height: 98%;
+  width: 98%;
+  margin: auto auto auto auto !important;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.61);
+  border-color: rgba(18, 18, 18, 0.9);
+  background-color: white!important;
+  border-radius: 10px;
+
+}
+
+.close-btn {
+  position: absolute;
+  right: 13px;
+  top:20px;
+  width: 5px;
+  height: 5px;
+  opacity: 0.3;
+}
+.close-btn:hover {
+  opacity: 1;
+}
